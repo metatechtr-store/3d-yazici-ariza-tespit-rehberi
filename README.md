@@ -4,7 +4,7 @@ FDM/FFF yazıcılarda **belirtiyi tarif etmek, olası nedenleri ayırmak ve güv
 
 Bir fotoğraf çoğu zaman kesin teşhis için yeterli değildir. Aynı boşluk, besleme sorunu veya yanlış dilimleme ayarı nedeniyle oluşabilir. Bu rehber, doğrudan parça değiştirmek yerine gözlemi kaydetmenize ve küçük, geri alınabilir denemelerle ihtimalleri daraltmanıza yardımcı olur. Buradaki test önerileri bir laboratuvar doğrulaması veya her yazıcı için sonuç garantisi değildir.
 
-**Hazırlayan ve ticari ilişki:** [MetatechTR](https://store.metatechtr.com/), 3D yazıcı ürünleri satan bir mağazadır. Rehberdeki teknik kaynaklar üreticilerin resmî dokümantasyonudur; MetatechTR bağlantıları ticari bağlantı olarak açıkça ayrılmıştır. Rehberi uygulamak için satın alma gerekmez.
+**Hazırlayan ve ticari ilişki:** MetatechTR ([3D YAZICI](https://store.metatechtr.com/)), 3D yazıcı ürünleri satan bir mağazadır. Rehberdeki teknik kaynaklar üreticilerin resmî dokümantasyonudur; MetatechTR bağlantıları ticari bağlantı olarak açıkça ayrılmıştır. Rehberi uygulamak için satın alma gerekmez.
 
 ## Buradan başlayın
 
