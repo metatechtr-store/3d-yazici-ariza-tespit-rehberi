@@ -32,4 +32,4 @@ Bu depodaki karar ağacı, kayıt şablonları ve deney düzeni özgün bir edit
 
 ## Yayıncı bağlantıları
 
-MetatechTR ticari bir satıcıdır. [Filament ürünleri](https://store.metatechtr.com/bambu-lab-filamentler) ve [yedek parça ürünleri](https://store.metatechtr.com/bambu-lab-yedek-parcalari) sayfaları yalnızca yayıncının ticari katalog bağlantılarıdır. Teknik teşhisin kaynağı, uyumluluk onayı veya satın alma önerisi olarak sunulmaz. Parça seçmeden önce gerçek arızayı, cihaz revizyonunu ve üreticinin parça uyumluluğunu doğrulayın.
+MetatechTR ticari bir satıcıdır. [3D YAZICI](https://store.metatechtr.com/bambu-lab-filamentler) ve [3D YAZICI](https://store.metatechtr.com/bambu-lab-yedek-parcalari) sayfaları yalnızca yayıncının ticari katalog bağlantılarıdır. Teknik teşhisin kaynağı, uyumluluk onayı veya satın alma önerisi olarak sunulmaz. Parça seçmeden önce gerçek arızayı, cihaz revizyonunu ve üreticinin parça uyumluluğunu doğrulayın.
